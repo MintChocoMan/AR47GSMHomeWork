@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{52d6d92c-24b3-4a95-b5f5-8b2adbc1d87b}</ProjectGuid>
-    <RootNamespace>My005Operator</RootNamespace>
+    <ProjectGuid>{f9068084-9cbc-4000-bfd5-8f904f56aa04}</ProjectGuid>
+    <RootNamespace>My005Operator000</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="005_Operator.cpp" />
+    <ClCompile Include="005_Operator000.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
